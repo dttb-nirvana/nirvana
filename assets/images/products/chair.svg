@@ -1,0 +1,20 @@
+<svg width="320" height="378" viewBox="0 0 320 378" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="96.54" y="353.133" width="88.9184" height="31.7566" rx="15.8783" transform="rotate(-90 96.54 353.133)" fill="#999999"/>
+<rect x="30.4863" y="345.191" width="86.3779" height="22.8647" rx="11.4324" transform="rotate(-13.3903 30.4863 345.191)" fill="#999999"/>
+<rect width="86.3779" height="22.8647" rx="11.4324" transform="matrix(-0.972815 -0.231583 -0.231583 0.972815 203.648 345.191)" fill="#999999"/>
+<circle cx="41.9187" cy="362.025" r="15.2432" fill="#393939"/>
+<circle r="15.2432" transform="matrix(-1 0 0 1 192.216 362.025)" fill="#393939"/>
+<rect x="233.673" y="223.208" width="63.8079" height="22.2837" rx="11.1419" transform="rotate(109.022 233.673 223.208)" fill="#999999"/>
+<rect y="241.35" width="218.485" height="45.7295" rx="22.8647" fill="#393939"/>
+<rect x="266.863" y="84.6761" width="109.376" height="37.6495" rx="18.8247" transform="rotate(109.022 266.863 84.6761)" fill="#999999"/>
+<rect x="320" y="14.9046" width="248.972" height="45.7295" rx="22.8647" transform="rotate(109.022 320 14.9046)" fill="#393939"/>
+<rect x="101.621" y="264.215" width="88.9184" height="22.8647" rx="11.4324" transform="rotate(-90 101.621 264.215)" fill="#999999"/>
+<rect x="34.2971" y="161.323" width="158.783" height="34.2971" rx="17.1486" fill="#393939"/>
+<path d="M40 154L51.0049 142L58.6605 154L70.1439 142L79.2349 154L88.8044 142L98.3738 154L108.422 142L116.556 154L124.69 142L135.456 154L145.903 142L155.876 154L163 142.429" stroke="#999999"/>
+<line x1="0.5" y1="-0.5" x2="18.6284" y2="-0.5" transform="matrix(0.740069 -0.67253 -0.627206 -0.778853 191.99 146.564)" stroke="#393939" stroke-linecap="round" stroke-linejoin="bevel"/>
+<line x1="0.5" y1="-0.5" x2="18.6284" y2="-0.5" transform="matrix(-0.167795 -0.985822 0.974063 -0.226277 192.501 146.74)" stroke="#393939" stroke-linecap="round" stroke-linejoin="bevel"/>
+<line x1="206.052" y1="107.348" x2="192.463" y2="146.727" stroke="#393939"/>
+<line y1="-0.5" x2="41.6574" y2="-0.5" transform="matrix(0.326209 -0.945298 -0.945298 -0.326209 199.728 124.14)" stroke="#393939"/>
+<line x1="0.5" y1="-0.5" x2="18.6284" y2="-0.5" transform="matrix(-0.740069 0.67253 0.627206 0.778853 213.828 84.9376)" stroke="#393939" stroke-linecap="round" stroke-linejoin="bevel"/>
+<line x1="0.5" y1="-0.5" x2="18.6284" y2="-0.5" transform="matrix(0.167795 0.985822 -0.974063 0.226277 213.317 84.7613)" stroke="#393939" stroke-linecap="round" stroke-linejoin="bevel"/>
+</svg>
