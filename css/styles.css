@@ -49,6 +49,10 @@ h1 {
   text-align: center;
 }
 
+.qa-set {
+  margin-top: 2rem;
+}
+
 @media (min-width: 992px) {
   .landing-main {
     display: grid;
