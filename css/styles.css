@@ -9,7 +9,8 @@ h1 {
 }
 
 .team,
-.services {
+.services,
+.faq {
   margin-top: 3rem;
 }
 
@@ -51,7 +52,7 @@ h1 {
 }
 
 .qa-set {
-  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 @media (min-width: 992px) {
