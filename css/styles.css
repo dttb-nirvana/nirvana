@@ -83,6 +83,12 @@ h2 {
   margin-bottom: 2rem;
 }
 
+.download-link-set {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
 @media (min-width: 992px) {
   .landing-main {
     display: grid;
